@@ -1,9 +1,11 @@
 [
     {
         "_id": "8356cb02-ab69-46e3-a8be-09f5fe0e012b",
-        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "picture": "https://i.ibb.co/mJwwhgB/asad-latif.jpg",
         "name": "Asad Latif",
+        "description": "Gourmet expert Asad is a masterful Chef from Bangladesh who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. He likewise entertains gatherings of people with prompt answers for cooking tragedies.",
         "years_of_experience": 12,
+        "recipes_count": 3,
         "recipes": [
             {
                 "name": "Radish Greens (Leaf) stir fry",
@@ -63,9 +65,11 @@
     },
     {
         "_id": "c7d705de-1abe-4baf-916f-4c1a4a35fb33",
-        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "picture": "https://i.ibb.co/ww8d2dt/siddika-kabir.jpg",
         "name": "Siddiqua Kabir",
+        "description": "Siddiqua Kabir (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuring Bangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
         "years_of_experience": 20,
+        "recipes_count": 3,
         "recipes": [
             {
                 "name": "Beef Tripe Stir Fry",
@@ -130,9 +134,11 @@
     },
     {
         "_id": "48270067-2787-4592-a23c-3476e4027bb0",
-        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
-        "name": "Tony",
+        "picture": "https://i.ibb.co/M7JfjyG/tony-khan.jpg",
+        "name": "Tony Khan",
+        "description": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea.",
         "years_of_experience": 10,
+        "recipes_count": 3,
         "recipes": [
             {
                 "name": "Palmyra",
@@ -184,9 +190,11 @@
     },
     {
         "_id": "fff03417-3e66-46c6-8503-8b9383809c7f",
-        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+        "picture": "https://i.ibb.co/4V3Lqzh/manik-miah.jpg",
         "name": "Manik Miah",
+        "description": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.",
         "years_of_experience": 8,
+        "recipes_count": 3,
         "recipes": [
             {
                 "name": "Rui Maacher Bharta",
@@ -246,9 +254,11 @@
     },
     {
         "_id": "1bac545a-2764-4f96-ade6-b1d6e622f500",
-        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "picture": "https://i.ibb.co/dLbNj0L/asmat-ali.jpg",
         "name": "Asmat Ali",
+        "description": "Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
         "years_of_experience": 7,
+        "recipes_count": 3,
         "recipes": [
             {
                 "name": "Dimer Shashranga",
@@ -312,9 +322,11 @@
     },
     {
         "_id": "877e35b0-4c6e-4162-9a88-63e32ce83918",
-        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "picture": "https://i.ibb.co/gWfJkxY/haji-fakruddin.jpg",
         "name": "Haji Fakruddin",
+        "description": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of Bangladesh.",
         "years_of_experience": 20,
+        "recipes_count": 3,
         "recipes": [
             {
                 "name": "Kacchi Biryani",
