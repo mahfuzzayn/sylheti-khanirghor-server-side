@@ -1,0 +1,396 @@
+[
+    {
+        "_id": "8356cb02-ab69-46e3-a8be-09f5fe0e012b",
+        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "name": "Asad Latif",
+        "years_of_experience": 12,
+        "recipes": [
+            {
+                "name": "Radish Greens (Leaf) stir fry",
+                "ingredients": [
+                    "3 cup clean and chopped radish green leaf",
+                    "2 tablespoon chopped onions",
+                    "2 green chillies",
+                    "2 dry red chilli",
+                    "1 teaspoon chopped garlic",
+                    "2 tablespoon Mustard Oil",
+                    "To taste Salt"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": "4.6"
+            },
+            {
+                "name": "Beef Coconut",
+                "ingredients": [
+                    "2 cup beef chopped in medium large size",
+                    "1/2 cup water",
+                    "1 cup Coconut Milk",
+                    "pieces Some whole coconut",
+                    "2 tablespoon chopped onions",
+                    "2 tablespoon oil",
+                    "To taste Salt",
+                    "2 teaspoon ginger-garlic paste",
+                    "2 teaspoon red chilli powder",
+                    "1 teaspoon termeric powder",
+                    "2 teaspoon Coriander powder",
+                    "1.5 teaspoon garam masala powder",
+                    "2 tablespoon sour yougard",
+                    "2 bay leaves",
+                    "1/2 teaspoon brown sugar"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Coconut Milk Pulao Thali",
+                "ingredients": [
+                    "1 cup Chinigura rice soaked in water",
+                    "1 cup water",
+                    "1/2 cup Coconut Milk",
+                    "To taste Salt",
+                    "1 teaspoon ginger-garlic paste",
+                    "2 green chillies",
+                    "1/2 teaspoon garam masala powder",
+                    "1 tablespoon chopped onions",
+                    "1 tablespoon oil",
+                    "2 bay leaves"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 4.9
+            }
+        ],
+        "likes": 1356
+    },
+    {
+        "_id": "c7d705de-1abe-4baf-916f-4c1a4a35fb33",
+        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "name": "Siddiqua Kabir",
+        "years_of_experience": 20,
+        "recipes": [
+            {
+                "name": "Beef Tripe Stir Fry",
+                "ingredients": [
+                    "2 cups boiled and chopped Beef Tripe",
+                    "3 tablespoon chopped onions",
+                    "3 dry red chillies",
+                    "3 tablespoon mustard oil",
+                    "1.5 teaspoon termeric powder",
+                    "2 teaspoon red chilli powder",
+                    "3 teaspoon Coriander powder",
+                    "2 teaspoon cumin powder",
+                    "2 tablespoon ginger-garlic paste",
+                    "1.5 cup water",
+                    "2 bay leaves",
+                    "2 teaspoon garam masala powder"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 4.5
+            },
+            {
+                "name": "Chicken Curry",
+                "ingredients": [
+                    "Chicken (500 gm)",
+                    "Red Chilli powder (1.5 tsp)",
+                    "Soya bean oil (5 tbsp)",
+                    "Turmeric powder (1 tsp)",
+                    "Onion (3 medium size sliced)",
+                    "Ginger paste (1 tsp)",
+                    "Garlic paste (1 tbsp)",
+                    "Cumin fried powder (1 tsp)",
+                    "Whole Garam Masala (Cardamom 2 inch 1 pcs, Cinnamon 3 pieces, Cloves 5)",
+                    "Potato 2 pcs medium size cut into 8 pcs",
+                    "Coriander powder (1 tsp)",
+                    "Salt (to taste)",
+                    "Water (5 cup)"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Bhuri Bhuna",
+                "ingredients": [
+                    "2 cups boiled and chopped Beef Tripe",
+                    "3 tablespoon chopped onions",
+                    "3 dry red chillies",
+                    "3 tablespoon mustard oil",
+                    "1.5 teaspoon termeric powder",
+                    "2 teaspoon red chilli powder",
+                    "3 teaspoon Coriander powder",
+                    "2 teaspoon cumin powder",
+                    "2 tablespoon ginger-garlic paste",
+                    "1.5 cup water",
+                    "2 bay leaves",
+                    "2 teaspoon garam masala powder"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 4.0
+            }
+        ],
+        "likes": 1544
+    },
+    {
+        "_id": "48270067-2787-4592-a23c-3476e4027bb0",
+        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "name": "Tony",
+        "years_of_experience": 10,
+        "recipes": [
+            {
+                "name": "Palmyra",
+                "ingredients": [
+                    "1 cup pulp of Palmyra",
+                    "1 cup semolina",
+                    "2 cup refined flour",
+                    "1 cup grated coconut",
+                    "1 tbsp fennel seeds",
+                    "1 cup milk",
+                    "2 cup sugar",
+                    "Oil for frying"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Ice Apple",
+                "ingredients": [
+                    "1 cup pulp of Palmyra",
+                    "1 cup semolina",
+                    "2 cup refined flour",
+                    "1 cup grated coconut",
+                    "1 tbsp fennel seeds",
+                    "1 cup milk",
+                    "2 cup sugar",
+                    "Oil for frying"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Palm Fruit Malpua",
+                "ingredients": [
+                    "1 cup pulp of Palmyra",
+                    "1 cup semolina",
+                    "2 cup refined flour",
+                    "1 cup grated coconut",
+                    "1 tbsp fennel seeds",
+                    "1 cup milk",
+                    "2 cup sugar",
+                    "Oil for frying"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 5
+            }
+        ],
+        "likes": 748
+    },
+    {
+        "_id": "fff03417-3e66-46c6-8503-8b9383809c7f",
+        "picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+        "name": "Manik Miah",
+        "years_of_experience": 8,
+        "recipes": [
+            {
+                "name": "Rui Maacher Bharta",
+                "ingredients": [
+                    "80 gm Ruhu Fish (tastes better) from the stomach side or (peti pieces in bengali)",
+                    "Dori, tilapia or salmon any kind of fish can be used but Rohu fish tastes better",
+                    "2 onions sliced",
+                    "2 red whole chilli fried in oil and mashed",
+                    "2 cloves garlic and 1 inch of ginger grated and fried in oil and kept aside",
+                    "Chopped fresh corriander",
+                    "3 tablespoon mustard oil, olive oil can be used too",
+                    "2 chopped green chilli (optional)",
+                    "1 small tomato fine chopped",
+                    "Salt to taste"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Khurbo (Chicken Stir Fry)",
+                "ingredients": [
+                    "1 chicken breast",
+                    "1/2 tsp. salt",
+                    "1/4 tsp. turmeric powder",
+                    "1/4 tsp. red chili powder",
+                    "1 tsp. oil",
+                    "3-4 dry red chilies",
+                    "4-5 garlic cloves",
+                    "1 tsp. lemon juice or to taste",
+                    "pinch salt (opt)",
+                    "1 tsp. mustard oil",
+                    "1 tbsp. kasundi (mustard sauce)",
+                    "1 tbsp. coriander leaves"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 4.0
+            },
+            {
+                "name": "Mashed Ruhu Fish",
+                "ingredients": [
+                    "80 gm Ruhu Fish (tastes better) from the stomach side or (peti pieces in bengali)",
+                    "Dori, tilapia or salmon any kind of fish can be used but Rohu fish tastes better",
+                    "2 onions sliced",
+                    "2 red whole chilli fried in oil and mashed",
+                    "2 cloves garlic and 1 inch of ginger grated and fried in oil and kept aside",
+                    "Chopped fresh corriander",
+                    "3 tablespoon mustard oil, olive oil can be used too",
+                    "2 chopped green chilli (optional)",
+                    "1 small tomato fine chopped",
+                    "Salt to taste"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 5
+            }
+        ],
+        "likes": 974
+    },
+    {
+        "_id": "1bac545a-2764-4f96-ade6-b1d6e622f500",
+        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "name": "Asmat Ali",
+        "years_of_experience": 7,
+        "recipes": [
+            {
+                "name": "Dimer Shashranga",
+                "ingredients": [
+                    "4 Eggs: Big- Separated (Yolks & White) & set aside each of them separately",
+                    "To Taste Salt",
+                    "1 Cup Fresh Onion Birista",
+                    "200-250 gms Plain Yoghurt + 1/2 tsp Sugar: Well Whisked",
+                    "3-4 Tempering Spices: Green Cardamoms",
+                    "4-5 Cloves",
+                    "1 inch Cinnamon Stick",
+                    "1 Onion: Finely Chopped or Pasted",
+                    "1 tbsp (2 G) Paste: Ginger-Garlic Paste: (This recipe traditionally doesn’t call for this particular ingredients paste however, I preferred using it in it)",
+                    "as required Water (Hot)",
+                    "1 tbsp Black Peppercorns: Freshly Cracked",
+                    "1 tsp Dry Roasted Cumins & Whole Dry Red Chilli Powder: Homemade",
+                    "1 tsp Garam Masala Powder: Homemade",
+                    "1/4 Cup Ghee/Cooking Oil or Both: For Cooking this particular Recipe- (This recipe calls for it entirely, however I’ve mixed in both the ghee & cooking oil in it all along)",
+                    "3-4 Green Chillies: Slit"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Salad",
+                "ingredients": [
+                    "Half cup carrot cubes",
+                    "Half cup potato cubes",
+                    "2 tbs matar",
+                    "1 tbs oil",
+                    "Pinch salt",
+                    "Pinch black pepper"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 5
+            },
+            {
+                "name": "Egg Shashrang",
+                "ingredients": [
+                    "4 Eggs: Big- Separated (Yolks & White) & set aside each of them separately",
+                    "To Taste Salt",
+                    "1 Cup Fresh Onion Birista",
+                    "200-250 gms Plain Yoghurt + 1/2 tsp Sugar: Well Whisked",
+                    "3-4 Tempering Spices: Green Cardamoms",
+                    "4-5 Cloves",
+                    "1 inch Cinnamon Stick",
+                    "1 Onion: Finely Chopped or Pasted",
+                    "1 tbsp (2 G) Paste: Ginger-Garlic Paste: (This recipe traditionally doesn’t call for this particular ingredients paste however, I preferred using it in it)",
+                    "as required Water (Hot)",
+                    "1 tbsp Black Peppercorns: Freshly Cracked",
+                    "1 tsp Dry Roasted Cumins & Whole Dry Red Chilli Powder: Homemade",
+                    "1 tsp Garam Masala Powder: Homemade",
+                    "1/4 Cup Ghee/Cooking Oil or Both: For Cooking this particular Recipe- (This recipe calls for it entirely, however I’ve mixed in both the ghee & cooking oil in it all along)",
+                    "3-4 Green Chillies: Slit"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 5
+            }
+        ],
+        "likes": 869
+    },
+    {
+        "_id": "877e35b0-4c6e-4162-9a88-63e32ce83918",
+        "picture": "https://i.ibb.co/1TDdRPT/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+        "name": "Haji Fakruddin",
+        "years_of_experience": 20,
+        "recipes": [
+            {
+                "name": "Kacchi Biryani",
+                "ingredients": [
+                    "1 1/2 kg chicken",
+                    "1 teaspoon ginger paste",
+                    "2 teaspoon garlic paste",
+                    "3-4 dry red chilli",
+                    "2-3 stick cinnamon, half inches each",
+                    "4-5 green cardamom",
+                    "1 teaspoon cumin",
+                    "1/2 teaspoon cloves",
+                    "1/2 teaspoon mace",
+                    "1/8 teaspoon nutmeg",
+                    "6-8 allspice (optional)",
+                    "1/2 teaspoon fennel seed (optional)",
+                    "3 tablespoon yogurt",
+                    "3/4 cup ghee or butter",
+                    "5 medium potato",
+                    "pinch orange food colour (optional)",
+                    "1/2 cup onion, thinly sliced",
+                    "4 cups basmati Rice",
+                    "6 cups water",
+                    "1/2 cup condensed milk",
+                    "2 tablespoon milk",
+                    "pinch saffron",
+                    "10-12 alubokhara",
+                    "to taste Salt, according"
+                ],
+                "cooking_method": "Combination Cooking",
+                "rating": 5
+            },
+            {
+                "name": "Puin-Chingri",
+                "ingredients": [
+                    "6-8 Prawns/Shrimps: Shelled & Veined- (Lightly sautéed with some salt & turmeric)",
+                    "250-300 gms Basalle Alba Spinach/Puin Shaak- Commonly known as the Malabar Spinach in India- though both aren’t the same…however it belongs to the same family/species)",
+                    "1 Potato: Medium- Diced into small Cubes- Lightly Sautéed & Set Aside",
+                    "1 tsp PanchPhoron",
+                    "1 tsp Red Chilli Powder",
+                    "1/2 tsp Turmeric",
+                    "1/4 tsp Sugar: Optional (Recommend, since Bengali Dishes usually do have it in almost all, not for the sweet tastes but to balance the tartness of the salt)",
+                    "as per taste Water (Warm)",
+                    "2-3 tbsps Shredded Coconut: Any- Fresh or Desiccated",
+                    "4 tbsps Mustard Oil: (Mandatory)"
+                ],
+                "cooking_method": "Dry heat cooking",
+                "rating": 4.5
+            },
+            {
+                "name": "Cauliflower Korma",
+                "ingredients": [
+                    "1 medium size cauliflower",
+                    "1 medium size onion",
+                    "5-6 garlic pods",
+                    "2 inch ginger",
+                    "4 green chillies",
+                    "9-10 cashew nuts",
+                    "3 tsp curd",
+                    "1/2 tsp red chilli powder",
+                    "1 tbsp freshly grated coconut",
+                    "1 bay leaf",
+                    "1 inch cinnamon stick",
+                    "5-6 black peppercorns",
+                    "1 tsp sugar",
+                    "to taste Salt",
+                    "1 tsp garam masala powder",
+                    "1 tsp ghee",
+                    "As needed Oil",
+                    "As needed Water",
+                    "2 tsp fried onions for garnishing"
+                ],
+                "cooking_method": "Moist heat cooking",
+                "rating": 4.2
+            }
+        ],
+        "likes": 1475
+    }
+]
