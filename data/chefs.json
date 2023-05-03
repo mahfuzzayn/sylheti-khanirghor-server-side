@@ -8,6 +8,7 @@
         "recipes_count": 3,
         "recipes": [
             {
+                "id": 1,
                 "name": "Radish Greens (Leaf) stir fry",
                 "ingredients": [
                     "3 cup clean and chopped radish green leaf",
@@ -22,6 +23,7 @@
                 "rating": "4.6"
             },
             {
+                "id": 2,
                 "name": "Beef Coconut",
                 "ingredients": [
                     "2 cup beef chopped in medium large size",
@@ -44,6 +46,7 @@
                 "rating": 5
             },
             {
+                "id": 3,
                 "name": "Coconut Milk Pulao Thali",
                 "ingredients": [
                     "1 cup Chinigura rice soaked in water",
@@ -72,6 +75,7 @@
         "recipes_count": 3,
         "recipes": [
             {
+                "id": 1,
                 "name": "Beef Tripe Stir Fry",
                 "ingredients": [
                     "2 cups boiled and chopped Beef Tripe",
@@ -91,6 +95,7 @@
                 "rating": 4.5
             },
             {
+                "id": 2,
                 "name": "Chicken Curry",
                 "ingredients": [
                     "Chicken (500 gm)",
@@ -111,6 +116,7 @@
                 "rating": 5
             },
             {
+                "id": 3,
                 "name": "Bhuri Bhuna",
                 "ingredients": [
                     "2 cups boiled and chopped Beef Tripe",
@@ -141,6 +147,7 @@
         "recipes_count": 3,
         "recipes": [
             {
+                "id": 1,
                 "name": "Palmyra",
                 "ingredients": [
                     "1 cup pulp of Palmyra",
@@ -156,6 +163,7 @@
                 "rating": 5
             },
             {
+                "id": 2,
                 "name": "Ice Apple",
                 "ingredients": [
                     "1 cup pulp of Palmyra",
@@ -171,6 +179,7 @@
                 "rating": 5
             },
             {
+                "id": 3,
                 "name": "Palm Fruit Malpua",
                 "ingredients": [
                     "1 cup pulp of Palmyra",
@@ -197,6 +206,7 @@
         "recipes_count": 3,
         "recipes": [
             {
+                "id": 1,
                 "name": "Rui Maacher Bharta",
                 "ingredients": [
                     "80 gm Ruhu Fish (tastes better) from the stomach side or (peti pieces in bengali)",
@@ -214,6 +224,7 @@
                 "rating": 5
             },
             {
+                "id": 2,
                 "name": "Khurbo (Chicken Stir Fry)",
                 "ingredients": [
                     "1 chicken breast",
@@ -233,6 +244,7 @@
                 "rating": 4.0
             },
             {
+                "id": 3,
                 "name": "Mashed Ruhu Fish",
                 "ingredients": [
                     "80 gm Ruhu Fish (tastes better) from the stomach side or (peti pieces in bengali)",
@@ -261,6 +273,7 @@
         "recipes_count": 3,
         "recipes": [
             {
+                "id": 1,
                 "name": "Dimer Shashranga",
                 "ingredients": [
                     "4 Eggs: Big- Separated (Yolks & White) & set aside each of them separately",
@@ -283,6 +296,7 @@
                 "rating": 5
             },
             {
+                "id": 2,
                 "name": "Salad",
                 "ingredients": [
                     "Half cup carrot cubes",
@@ -296,6 +310,7 @@
                 "rating": 5
             },
             {
+                "id": 3,
                 "name": "Egg Shashrang",
                 "ingredients": [
                     "4 Eggs: Big- Separated (Yolks & White) & set aside each of them separately",
@@ -329,6 +344,7 @@
         "recipes_count": 3,
         "recipes": [
             {
+                "id": 1,
                 "name": "Kacchi Biryani",
                 "ingredients": [
                     "1 1/2 kg chicken",
@@ -360,6 +376,7 @@
                 "rating": 5
             },
             {
+                "id": 2,
                 "name": "Puin-Chingri",
                 "ingredients": [
                     "6-8 Prawns/Shrimps: Shelled & Veined- (Lightly sautéed with some salt & turmeric)",
@@ -377,6 +394,7 @@
                 "rating": 4.5
             },
             {
+                "id": 3,
                 "name": "Cauliflower Korma",
                 "ingredients": [
                     "1 medium size cauliflower",
