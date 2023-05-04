@@ -7,7 +7,7 @@ const chefs = require("./data/chefs.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-    res.send("Sylhet Khanirghor server running...");
+    res.send("Sylhet Khanirghor server is running...");
 });
 
 app.get("/chefs", (req, res) => {
