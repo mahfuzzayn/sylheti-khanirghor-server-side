@@ -19,7 +19,20 @@
                     "2 tablespoon Mustard Oil",
                     "To taste Salt"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "Rinse the radish green leaves thoroughly and chop them into bite-sized pieces. Set them aside.",
+                    "Finely chop 2 tablespoons of onions, 2 green chillies, and 2 dry red chillies. Set them aside.",
+                    "In a pan, heat 2 tablespoons of Mustard Oil over medium heat.",
+                    "Add 2 dry red chillies to the oil and let them sizzle for a few seconds.",
+                    "Add 1 teaspoon of chopped garlic to the oil and sauté for about a minute or until the garlic is fragrant and slightly golden.",
+                    "Add the chopped onions to the pan and sauté until they turn translucent and slightly golden.",
+                    "Add the chopped green chillies to the pan and sauté for a minute or until they start to change color.",
+                    "Add the chopped radish green leaves to the pan and mix well.",
+                    "Sprinkle salt to taste and mix well.",
+                    "Cover the pan with a lid and cook for 5-7 minutes or until the radish green leaves are wilted and tender.",
+                    "Once the radish green leaves are cooked, turn off the heat and transfer the stir fry to a serving bowl.",
+                    "Serve hot as a side dish with roti, rice, or any main course of your choice."
+                ],
                 "rating": "4.6"
             },
             {
@@ -42,7 +55,22 @@
                     "2 bay leaves",
                     "1/2 teaspoon brown sugar"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "In a pressure cooker or a heavy-bottomed pan, heat 2 tablespoons of oil over medium heat.",
+                    "Add 2 bay leaves and 2 tablespoons of chopped onions to the pan and sauté until the onions are translucent.",
+                    "Add 2 teaspoons of ginger-garlic paste and sauté until the raw smell disappears.",
+                    "Add 2 cups of beef to the pan and stir well.",
+                    "Add 2 teaspoons of red chilli powder, 1 teaspoon of turmeric powder, 2 teaspoons of coriander powder, 1.5 teaspoons of garam masala powder, and salt to taste. Mix well.",
+                    "Add 1/2 cup of water to the pan and stir well.",
+                    "Close the pressure cooker lid and cook for 15-20 minutes or until the beef is tender. If using a heavy-bottomed pan, cover with a lid and cook for about 45-50 minutes or until the beef is tender, stirring occasionally.",
+                    "Once the beef is tender, add 1 cup of coconut milk to the pan and mix well.",
+                    "Add some pieces of whole coconut to the pan and mix well.",
+                    "Add 2 tablespoons of sour yogurt to the pan and mix well.",
+                    "Add 1/2 teaspoon of brown sugar to the pan and mix well.",
+                    "Cook for another 5-10 minutes or until the curry reaches your desired consistency.",
+                    "Turn off the heat and transfer the beef coconut to a serving bowl.",
+                    "Garnish with some chopped coriander leaves and serve hot with rice or any bread of your choice."
+                ],
                 "rating": 5
             },
             {
@@ -60,7 +88,21 @@
                     "1 tablespoon oil",
                     "2 bay leaves"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "In a pan, heat 1 tablespoon of oil over medium heat.",
+                    "Add 2 bay leaves to the pan and sauté for a few seconds until fragrant.",
+                    "Add 1 tablespoon of chopped onions to the pan and sauté until translucent.",
+                    "Add 1 teaspoon of ginger-garlic paste and sauté until the raw smell disappears.",
+                    "Add 2 green chillies and 1/2 teaspoon of garam masala powder to the pan and mix well.",
+                    "Drain the water from 1 cup of soaked Chinigura rice and add the rice to the pan. Mix well with the spices.",
+                    "Add 1 cup of water to the pan and mix well.",
+                    "Add salt to taste and mix well.",
+                    "Bring the mixture to a boil over high heat, then reduce the heat to low, cover the pan with a lid, and simmer for 10-12 minutes or until the rice is cooked and the water has evaporated.",
+                    "Once the rice is cooked, add 1/2 cup of coconut milk to the pan and mix well.",
+                    "Cook for another 2-3 minutes or until the coconut milk is absorbed by the rice.",
+                    "Turn off the heat and let the pulao rest for a few minutes.",
+                    "Serve the Coconut Milk Pulao Thali hot with your favorite side dishes, such as raita, pickle, and salad."
+                ],
                 "rating": 4.9
             }
         ],
@@ -91,7 +133,23 @@
                     "2 bay leaves",
                     "2 teaspoon garam masala powder"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "In a pan, heat 3 tablespoon of mustard oil over medium heat.",
+                    "Add 3 dry red chillies and sauté for a few seconds until fragrant.",
+                    "Add 3 tablespoon of chopped onions to the pan and sauté until translucent.",
+                    "Add 2 tablespoon of ginger-garlic paste and sauté until the raw smell disappears.",
+                    "Add 1.5 teaspoon of turmeric powder, 2 teaspoon of red chilli powder, 3 teaspoon of coriander powder, and 2 teaspoon of cumin powder to the pan and mix well.",
+                    "Add 2 cups of boiled and chopped Beef Tripe to the pan and mix well with the spices.",
+                    "Add 1.5 cup of water to the pan and mix well.",
+                    "Add 2 bay leaves to the pan and bring the mixture to a boil over high heat.",
+                    "Reduce the heat to low, cover the pan with a lid, and let it simmer for 15-20 minutes or until the tripe is cooked and tender.",
+                    "Once the tripe is cooked, remove the lid and increase the heat to high.",
+                    "Stir fry the tripe for 3-4 minutes or until the water has evaporated and the spices have coated the tripe.",
+                    "Add 2 teaspoon of garam masala powder to the pan and mix well.",
+                    "Cook for another 2-3 minutes or until the tripe is dry and fully coated with the spices.",
+                    "Turn off the heat and transfer the Beef Tripe Stir Fry to a serving dish.",
+                    "Serve hot with rice or bread."
+                ],
                 "rating": 4.5
             },
             {
@@ -112,7 +170,18 @@
                     "Salt (to taste)",
                     "Water (5 cup)"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "In a large pot or deep pan, heat 5 tbsp of Soya bean oil over medium heat.",
+                    "Add the sliced onions and sauté until they turn translucent.",
+                    "Add 1 tsp of ginger paste and 1 tbsp of garlic paste. Sauté for 1-2 minutes.",
+                    "Add the chicken pieces and fry until they turn golden brown.",
+                    "Add 1.5 tsp of red chilli powder, 1 tsp of turmeric powder, 1 tsp of cumin fried powder, and 1 tsp of coriander powder. Mix well and cook for a few minutes.",
+                    "Add 5 cups of water, 2 pcs of medium-sized potatoes cut into 8 pieces, and whole garam masala (cardamom, cinnamon, and cloves). Mix well and bring it to a boil.",
+                    "Cover the pot with a lid and let it simmer for 30-35 minutes or until the chicken is cooked and tender.",
+                    "Remove the lid and add salt to taste. Mix well and cook for another 5 minutes.",
+                    "Garnish with fresh coriander leaves.",
+                    "Serve hot with rice or chapati."
+                ],
                 "rating": 5
             },
             {
@@ -132,7 +201,16 @@
                     "2 bay leaves",
                     "2 teaspoon garam masala powder"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "Heat mustard oil in a deep pan over medium heat.",
+                    "Add chopped onions, dry red chilies, and bay leaves. Stir and fry until the onions turn golden brown.",
+                    "Add ginger-garlic paste and sauté for 1-2 minutes.",
+                    "Add the boiled and chopped beef tripe and stir well.",
+                    "Add turmeric powder, red chili powder, coriander powder, cumin powder, and salt to taste. Stir well and cook for 5-7 minutes.",
+                    "Pour in 1.5 cups of water, cover the pan with a lid, and simmer for 30-40 minutes or until the beef tripe becomes tender and the water dries up.",
+                    "Add garam masala powder and stir well. Cook for another 2-3 minutes.",
+                    "Bhuri Bhuna is ready to serve. Serve it hot with rice or bread."
+                ],
                 "rating": 4.0
             }
         ],
@@ -159,7 +237,16 @@
                     "2 cup sugar",
                     "Oil for frying"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "In a mixing bowl, combine 1 cup of Palmyra pulp, 1 cup of semolina, 2 cups of refined flour, 1 cup of grated coconut, and 1 tablespoon of fennel seeds.",
+                    "Gradually add 1 cup of milk to the mixture and stir well to form a smooth batter.",
+                    "Heat oil in a frying pan over medium heat.",
+                    "Drop spoonfuls of the batter into the hot oil and fry until golden brown.",
+                    "Remove the fried cakes from the oil and drain on paper towels.",
+                    "In another pan, add 2 cups of sugar and 1 cup of water, and cook over medium heat until the sugar dissolves and the mixture thickens to a syrup consistency.",
+                    "Dip the fried cakes in the sugar syrup and let them soak for a few minutes.",
+                    "Serve the Palmyra cakes hot or cold, garnished with chopped nuts or coconut flakes, if desired."
+                ],
                 "rating": 5
             },
             {
@@ -175,7 +262,16 @@
                     "2 cup sugar",
                     "Oil for frying"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "In a mixing bowl, combine 1 cup of Palmyra pulp, 1 cup of semolina, 2 cups of refined flour, 1 cup of grated coconut, and 1 tablespoon of fennel seeds.",
+                    "Gradually add 1 cup of milk to the mixture and stir well to form a smooth batter.",
+                    "Heat oil in a frying pan over medium heat.",
+                    "Drop spoonfuls of the batter into the hot oil and fry until golden brown.",
+                    "Remove the fried cakes from the oil and drain on paper towels.",
+                    "In another pan, add 2 cups of sugar and 1 cup of water, and cook over medium heat until the sugar dissolves and the mixture thickens to a syrup consistency.",
+                    "Dip the fried cakes in the sugar syrup and let them soak for a few minutes.",
+                    "Serve the Palmyra cakes hot or cold, garnished with chopped nuts or coconut flakes, if desired."
+                ],
                 "rating": 5
             },
             {
@@ -191,7 +287,16 @@
                     "2 cup sugar",
                     "Oil for frying"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "In a mixing bowl, combine 1 cup of Palmyra pulp, 1 cup of semolina, 2 cups of refined flour, 1 cup of grated coconut, and 1 tablespoon of fennel seeds.",
+                    "Gradually add 1 cup of milk to the mixture and stir well to form a smooth batter.",
+                    "Heat oil in a frying pan over medium heat.",
+                    "Drop spoonfuls of the batter into the hot oil and fry until golden brown.",
+                    "Remove the fried cakes from the oil and drain on paper towels.",
+                    "In another pan, add 2 cups of sugar and 1 cup of water, and cook over medium heat until the sugar dissolves and the mixture thickens to a syrup consistency.",
+                    "Dip the fried cakes in the sugar syrup and let them soak for a few minutes.",
+                    "Serve the Palmyra cakes hot or cold, garnished with chopped nuts or coconut flakes, if desired."
+                ],
                 "rating": 5
             }
         ],
@@ -220,7 +325,16 @@
                     "1 small tomato fine chopped",
                     "Salt to taste"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "Boil the fish pieces with a little bit of salt until they are fully cooked. Drain the water and set aside the fish pieces.",
+                    "In a pan, heat mustard oil and fry the sliced onions until they turn golden brown.",
+                    "Add the fried ginger-garlic paste to the pan and stir well.",
+                    "Add the chopped tomato, green chillies (if using), and mashed red chillies to the pan and sauté for a few minutes.",
+                    "Add the boiled fish pieces to the pan and mix well with the masala.",
+                    "Add salt to taste and stir well.",
+                    "Add chopped fresh coriander to the pan and mix well.",
+                    "Serve hot with rice or roti."
+                ],
                 "rating": 5
             },
             {
@@ -240,7 +354,17 @@
                     "1 tbsp. kasundi (mustard sauce)",
                     "1 tbsp. coriander leaves"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "Cut the chicken breast into small bite-sized pieces.",
+                    "Marinate the chicken pieces with salt, turmeric powder, red chili powder, and oil. Mix well and set aside for 10-15 minutes.",
+                    "Heat a pan over medium heat and add the marinated chicken to the pan. Stir fry the chicken for 5-7 minutes or until cooked through.",
+                    "In a separate pan, heat mustard oil over low-medium heat.",
+                    "Add dry red chilies and garlic cloves to the pan and fry until the garlic turns light brown.",
+                    "Add the stir-fried chicken to the pan with the fried garlic and chilies. Mix well.",
+                    "Add lemon juice and a pinch of salt (if desired) to the pan and mix well.",
+                    "Add kasundi (mustard sauce) to the pan and mix well. Cook for another 1-2 minutes.",
+                    "Garnish with coriander leaves and serve hot."
+                ],
                 "rating": 4.0
             },
             {
@@ -258,7 +382,16 @@
                     "1 small tomato fine chopped",
                     "Salt to taste"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "Boil the fish pieces with a little bit of salt until they are fully cooked. Drain the water and set aside the fish pieces.",
+                    "In a pan, heat mustard oil and fry the sliced onions until they turn golden brown.",
+                    "Add the fried ginger-garlic paste to the pan and stir well.",
+                    "Add the chopped tomato, green chillies (if using), and mashed red chillies to the pan and sauté for a few minutes.",
+                    "Add the boiled fish pieces to the pan and mix well with the masala.",
+                    "Add salt to taste and stir well.",
+                    "Add chopped fresh coriander to the pan and mix well.",
+                    "Serve hot with rice or roti."
+                ],
                 "rating": 5
             }
         ],
@@ -292,7 +425,20 @@
                     "1/4 Cup Ghee/Cooking Oil or Both: For Cooking this particular Recipe- (This recipe calls for it entirely, however I’ve mixed in both the ghee & cooking oil in it all along)",
                     "3-4 Green Chillies: Slit"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "In a mixing bowl, beat the egg whites with a pinch of salt until they become stiff peaks.",
+                    "In another bowl, beat the egg yolks with a pinch of salt until they become frothy.",
+                    "Fold the egg whites into the egg yolks and mix well.",
+                    "Heat ghee and cooking oil in a pan over medium heat.",
+                    "Add the tempering spices (green cardamom, cloves, cinnamon stick) and fry for a few seconds until fragrant.",
+                    "Add chopped or pasted onion and ginger-garlic paste to the pan and sauté until golden brown.",
+                    "Add the freshly cracked black peppercorns and homemade cumin and whole dry red chili powder. Mix well.",
+                    "Add the beaten eggs to the pan and stir well.",
+                    "Add hot water to the pan and mix well. Cover the pan with a lid and cook for 5-7 minutes or until the eggs are cooked through.",
+                    "Add the garam masala powder, slit green chillies, and fresh onion birista to the pan. Mix well and cook for another 2-3 minutes.",
+                    "Finally, add the well-whisked yoghurt with sugar to the pan and mix well. Cook for another 2-3 minutes.",
+                    "Garnish with coriander leaves and serve hot with rice or bread."
+                ],
                 "rating": 5
             },
             {
@@ -306,7 +452,13 @@
                     "Pinch salt",
                     "Pinch black pepper"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "Wash and peel the carrot and potato, and cut them into small cubes.",
+                    "In a mixing bowl, combine the carrot and potato cubes with the matar (green peas).",
+                    "Add a pinch of salt and black pepper, and drizzle 1 tablespoon of oil over the salad.",
+                    "Toss the salad gently until everything is well mixed.",
+                    "Serve the salad chilled as a side dish with your main course."
+                ],
                 "rating": 5
             },
             {
@@ -329,7 +481,20 @@
                     "1/4 Cup Ghee/Cooking Oil or Both: For Cooking this particular Recipe- (This recipe calls for it entirely, however I’ve mixed in both the ghee & cooking oil in it all along)",
                     "3-4 Green Chillies: Slit"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "In a mixing bowl, beat the egg whites with a pinch of salt until they become stiff peaks.",
+                    "In another bowl, beat the egg yolks with a pinch of salt until they become frothy.",
+                    "Fold the egg whites into the egg yolks and mix well.",
+                    "Heat ghee and cooking oil in a pan over medium heat.",
+                    "Add the tempering spices (green cardamom, cloves, cinnamon stick) and fry for a few seconds until fragrant.",
+                    "Add chopped or pasted onion and ginger-garlic paste to the pan and sauté until golden brown.",
+                    "Add the freshly cracked black peppercorns and homemade cumin and whole dry red chili powder. Mix well.",
+                    "Add the beaten eggs to the pan and stir well.",
+                    "Add hot water to the pan and mix well. Cover the pan with a lid and cook for 5-7 minutes or until the eggs are cooked through.",
+                    "Add the garam masala powder, slit green chillies, and fresh onion birista to the pan. Mix well and cook for another 2-3 minutes.",
+                    "Finally, add the well-whisked yoghurt with sugar to the pan and mix well. Cook for another 2-3 minutes.",
+                    "Garnish with coriander leaves and serve hot with rice or bread."
+                ],
                 "rating": 5
             }
         ],
@@ -372,7 +537,16 @@
                     "10-12 alubokhara",
                     "to taste Salt, according"
                 ],
-                "cooking_method": "Combination Cooking",
+                "cooking_method": [
+                    "Clean and wash the chicken thoroughly, then marinate it with ginger paste, garlic paste, yogurt, and salt. Keep it aside for at least 2 hours or more.",
+                    "In a separate pan, fry the thinly sliced onions until they turn golden brown. Remove from the oil and keep aside.",
+                    "In the same oil, add the marinated chicken along with dry red chili, cinnamon sticks, green cardamom, cumin, cloves, mace, nutmeg, allspice, and fennel seeds (if using). Cook the chicken until it becomes tender.",
+                    "In a separate pot, boil 6 cups of water, add salt, and then add basmati rice to the pot. Cook until the rice is about 70% done. Drain the water and keep the rice aside.",
+                    "In a separate pot, heat ghee or butter, add thinly sliced onions, and fry until they turn golden brown. Add boiled potatoes and fry them until they are slightly golden. Remove from the pot and keep aside.",
+                    "Now, in a large pot or handi, add the cooked chicken and spread it evenly. Add the half-cooked rice over the chicken, spreading it evenly. Pour condensed milk mixed with milk, saffron, and food color (if using) over the rice. Top the rice with fried onions, alubokhara, and fried potatoes. Cover the pot with a lid.",
+                    "Place the pot on a low heat for 20-25 minutes or until the rice is fully cooked and fluffy. You can also place the pot in the oven for 20-25 minutes at 180°C (350°F) if you prefer.",
+                    "Once the biryani is cooked, serve hot with raita and salad. Enjoy your delicious Kacchi Biryani!"
+                ],
                 "rating": 5
             },
             {
@@ -390,7 +564,24 @@
                     "2-3 tbsps Shredded Coconut: Any- Fresh or Desiccated",
                     "4 tbsps Mustard Oil: (Mandatory)"
                 ],
-                "cooking_method": "Dry heat cooking",
+                "cooking_method": [
+                    "Wash and chop the Puin Shaak (Malabar Spinach) and set aside.",
+                    "Heat 2 tablespoons of mustard oil in a pan and add 1 teaspoon of PanchPhoron.",
+                    "Once the spices start to splutter, add the chopped Puin Shaak and sauté for 2-3 minutes.",
+                    "Add 1/2 teaspoon of turmeric powder, 1 teaspoon of red chilli powder, and salt to taste. Mix well and sauté for another 2-3 minutes.",
+                    "Add warm water to the pan, cover and let it simmer for 5-7 minutes until the Puin Shaak is cooked.",
+                    "In a separate pan, heat 1 tablespoon of mustard oil and sauté the diced potatoes until lightly browned. Set aside.",
+                    "Add the sautéed prawns to the Puin Shaak mixture and mix well. Cook for 2-3 minutes.",
+                    "Add the sautéed potatoes, 1/4 teaspoon of sugar (optional) and mix well.",
+                    "Add 2-3 tablespoons of shredded coconut and mix well.",
+                    "Simmer for 2-3 minutes until the flavors are well combined.",
+                    "In a small bowl, mix 2 tablespoons of condensed milk, 2 tablespoons of milk, and a pinch of saffron. Set aside.",
+                    "In a separate pot, cook 4 cups of basmati rice with 6 cups of water and salt to taste.",
+                    "Once the rice is cooked, strain any excess water and mix in the Puin Shaak and prawn mixture.",
+                    "Drizzle the saffron milk mixture over the top of the rice and mix lightly.",
+                    "Cover the pot with a tight-fitting lid and let it cook on low heat for 10-15 minutes until the flavors are well combined.",
+                    "Serve hot with raita and papad. Enjoy!"
+                ],
                 "rating": 4.5
             },
             {
@@ -417,7 +608,19 @@
                     "As needed Water",
                     "2 tsp fried onions for garnishing"
                 ],
-                "cooking_method": "Moist heat cooking",
+                "cooking_method": [
+                    "Cut the cauliflower into small florets and soak them in salt water for 10 minutes.",
+                    "Heat oil in a pan and add bay leaf, cinnamon, and black peppercorns. Saute them for a few seconds until the spices release their aroma.",
+                    "Add finely chopped onions and saute them until they turn translucent.",
+                    "Add chopped garlic, ginger, and green chillies to the pan and saute them until the raw smell disappears.",
+                    "Add chopped tomatoes, red chilli powder, and salt. Cook the tomatoes until they turn soft and mushy.",
+                    "Add cashew nuts, grated coconut, and curd to the pan. Mix everything well and cook for 2-3 minutes.",
+                    "Turn off the heat and let the mixture cool down. Once it cools down, grind it into a smooth paste.",
+                    "Heat oil in the same pan and add the cauliflower florets. Fry them for 3-4 minutes until they turn golden brown.",
+                    "Add the ground paste to the pan and mix everything well. Add some water if needed to adjust the consistency.",
+                    "Add garam masala powder, sugar, and some salt if needed. Mix everything well and let it cook for 5-7 minutes until the cauliflower is cooked and the gravy thickens.",
+                    "Add a teaspoon of ghee and mix everything well. Garnish with fried onions and serve hot with rice or roti."
+                ],
                 "rating": 4.2
             }
         ],
